@@ -1,6 +1,6 @@
 # REST API sample .Net
 
-api built for basic learning with .net
+api built for basic learning with  asp net core 3 + ef core 3
 
 # Request
 
